@@ -1,4 +1,5 @@
-# Work in progress
-Experimental, content is subject to frequent changes.
+# EXPERIMENTAL
+All content shown here is subject to changes. 
+Please report bugs on discord via DMs. 
 
-- Centoventi_
+[Work in progress]
